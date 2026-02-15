@@ -12,29 +12,15 @@
 
 ---
 
-## About
+<div align="center">
 
-```rust
-struct Developer {
-    name: &'static str,
-    pronouns: &'static str,
-    focus: &'static str,
-    current_stage: &'static str,
-}
+  ## About
 
-impl Developer {
-    fn new() -> Self {
-        Self {
-            name: "Arknight",
-            pronouns: "she/her",
-            focus: "Systems programming and low-level development",
-            current_stage: "High school student building long-term projects",
-        }
-    }
-}
-```
+High school developer focused on systems programming, Rust, and C++.
 
-I’m a high school developer focused primarily on systems programming and performance-oriented software. I enjoy understanding how things work at a low level and building projects that push my technical limits.
+Interested in performance, architecture, and open-source collaboration.
+
+</div>
 
 ---
 
@@ -117,3 +103,4 @@ Platform: GitHub
 ---
 
 > “Debugging is twice as hard as writing the code in the first place.”
+
