@@ -1,56 +1,57 @@
-<h1 align="center">
-  Arknight
-</h1>
-
-<p align="center">
-  High School Developer · Systems Programming · Rust | C++ | Python
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Arknight38&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" />
-</p>
-
----
-
 <div align="center">
 
-  ## About
+# Arknight
 
-High school developer focused on systems programming, Rust, and C++.
+**High School Developer · Systems Programming · Rust | C++ | Python**
 
-Interested in performance, architecture, and open-source collaboration.
+<img src="https://komarev.com/ghpvc/?username=Arknight38&color=75b7ea&style=flat-square&label=Profile+Views" alt="Profile views" />
 
 </div>
 
 ---
 
+<div align="center">
+
+### Discord Presence
+
+<a href="https://discord.com/users/1187827395152060518">
+  <img src="https://lanyard.kyrie25.dev/api/1187827395152060518?gradient=AED0EE&waveSpotifyColor=75b7ea&clanbg=75b7ea&showDisplayName=true&hideDecoration=false&animatedDecoration=false&hideNameplate=false&hideTimestamp=false&hideActivity=false&hideDiscrim=false&hideSpotify=false&hideProfile=false&hideClan=false&hideStatus=false" />
+</a>
+
+</div>
+
+---
+
+## About
+
+High school developer focused on systems programming, Rust, and C++.
+Interested in performance, architecture, and open-source collaboration.
+
+---
+
 ## Current Focus
 
-* Systems programming fundamentals
-* Writing reliable, maintainable C++ and Rust
-* Exploring AI/ML concepts
-* Building practical tools and experimental projects
+- Systems programming fundamentals
+- Writing reliable, maintainable C++ and Rust
+- Exploring AI/ML concepts
+- Building practical tools and experimental projects
 
 ---
 
 ## Tech Stack
 
-### Languages
+<div align="center">
 
-* Rust
-* C++
-* Python
-* Shell
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Shell](https://img.shields.io/badge/Shell-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-### Web & Tooling
-
-* HTML / CSS / JavaScript
-* Git
-
-### Exploring
-
-* AI / Machine Learning
-* Open-source collaboration
+</div>
 
 ---
 
@@ -58,22 +59,11 @@ Interested in performance, architecture, and open-source collaboration.
 
 <div align="center">
 
-### Gif-Engine
-Lightweight GIF rendering engine in C++ focused on performance and memory control.  
-**Tech:** C++, low-level image processing  
-
-### ServerShenanigans
-Experimental server tooling and networking utilities.  
-**Tech:** C++, networking  
-
-### wplacer
-
-Contributor to Wplacer, an open-source collaborative pixel canvas bot project. Ranked #3 contributor by commit volume.
-
-Contributions included feature implementation, and performance improvements.
-
-Tech: Javascript, css, html, node
-Platform: GitHub
+| Project | Description | Tech |
+|---|---|---|
+| **Gif-Engine** | Lightweight GIF rendering engine focused on performance and memory control | Rust, low-level image processing |
+| **ServerShenanigans** | Experimental server tooling and networking utilities | C++, networking |
+| **wplacer** | Contributor to an open-source collaborative pixel canvas bot · #3 by commit volume | JavaScript, CSS, HTML, Node.js |
 
 </div>
 
@@ -82,12 +72,12 @@ Platform: GitHub
 ## GitHub Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Arknight38&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arknight38&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="170"/>
-</div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Arknight38&theme=radical&hide_border=true" alt="GitHub Streak" />
+<img src="https://github-readme-stats.vercel.app/api?username=Arknight38&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arknight38&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="170"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Arknight38&theme=radical&hide_border=true" alt="GitHub Streak" />
+
 </div>
 
 ---
@@ -96,11 +86,15 @@ Platform: GitHub
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/Arknight38)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Arknight38)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1187827395152060518)
 
 </div>
 
 ---
 
-> “Debugging is twice as hard as writing the code in the first place.”
+<div align="center">
 
+> *"Debugging is twice as hard as writing the code in the first place."*
+
+</div>
