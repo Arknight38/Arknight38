@@ -73,9 +73,6 @@ Interested in performance, architecture, and open-source collaboration.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Arknight38&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arknight38&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="170"/>
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Arknight38&theme=radical&hide_border=true" alt="GitHub Streak" />
 
 </div>
@@ -98,3 +95,4 @@ Interested in performance, architecture, and open-source collaboration.
 > *"Debugging is twice as hard as writing the code in the first place."*
 
 </div>
+
