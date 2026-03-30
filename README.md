@@ -83,7 +83,7 @@ I'm a high school developer focused on systems programming in Rust and C++. I li
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Arknight38)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1187827395152060518)
-[![Portfolio](https://img.shields.io/badge/Portfolio-75b7ea?style=for-the-badge&logo=firefox&logoColor=white)](https://your-portfolio-url-here.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-75b7ea?style=for-the-badge&logo=firefox&logoColor=white)](https://arknight38.github.io/)
 
 </div>
 
