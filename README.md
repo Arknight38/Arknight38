@@ -24,17 +24,16 @@
 
 ## About
 
-High school developer focused on systems programming, Rust, and C++.
-Interested in performance, architecture, and open-source collaboration.
+I'm a high school developer focused on systems programming in Rust and C++. I like working close to the OS: drivers, memory management, networked applications, and tools that actually do something useful. I'm also the third-largest contributor to [wplacer](https://github.com/wplacer/wplacer) and help run the contributor side of its 2,500+ member community.
 
 ---
 
-## Current Focus
+## What I'm Working On
 
-- Systems programming fundamentals
-- Writing reliable, maintainable C++ and Rust
-- Exploring AI/ML concepts
+- Systems programming and OS internals
+- Writing reliable C++ and Rust
 - Building practical tools and experimental projects
+- Exploring AI/ML concepts on the side
 
 ---
 
@@ -47,23 +46,22 @@ Interested in performance, architecture, and open-source collaboration.
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Shell](https://img.shields.io/badge/Shell-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 </div>
 
 ---
 
-## Selected Projects
+## Projects
 
 <div align="center">
 
 | Project | Description | Tech |
 |---|---|---|
-| **Gif-Engine** | Lightweight GIF rendering engine focused on performance and memory control | Rust, low-level image processing |
-| **ServerShenanigans** | Experimental server tooling and networking utilities | C++, networking |
-| **wplacer** | Contributor to an open-source collaborative pixel canvas bot · #3 by commit volume | JavaScript, CSS, HTML, Node.js |
+| [**Gif-Engine**](https://github.com/Arknight38/Gif-Engine) | Desktop animation manager for Windows. Multi-process architecture, per-pixel transparency, system tray integration. Built because existing tools weren't good enough. | Rust, Windows API |
+| [**ServerShenanigans**](https://github.com/Arknight38/ServerShenanigans) | Client-server file sharing with resume support, zlib compression, SHA-256 verification, and 50 concurrent connections. | C++, Winsock2 |
+| [**wplacer**](https://github.com/wplacer/wplacer) | Open-source collaborative pixel canvas bot. I'm the #3 contributor by commit volume with 40 commits and 5,306 lines added. | JavaScript, Node.js |
+| [**Walls**](https://github.com/Arknight38/Walls) | My wallpaper collection with shell scripts for automated management. | Shell |
 
 </div>
 
@@ -85,6 +83,7 @@ Interested in performance, architecture, and open-source collaboration.
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Arknight38)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1187827395152060518)
+[![Portfolio](https://img.shields.io/badge/Portfolio-75b7ea?style=for-the-badge&logo=firefox&logoColor=white)](https://your-portfolio-url-here.com)
 
 </div>
 
@@ -92,7 +91,6 @@ Interested in performance, architecture, and open-source collaboration.
 
 <div align="center">
 
-> *"Debugging is twice as hard as writing the code in the first place."*
+*"Debugging is twice as hard as writing the code in the first place."*
 
 </div>
-
