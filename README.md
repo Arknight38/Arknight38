@@ -24,7 +24,7 @@
 
 ## About
 
-I'm a high school developer focused on systems programming in Rust and C++. I like working close to the OS: drivers, memory management, networked applications, and tools that actually do something useful. I'm also the third-largest contributor to [wplacer](https://github.com/wplacer/wplacer) and help run the contributor side of its 2,500+ member community.
+I'm a high school developer focused on systems programming in Rust and C++. I like working close to the OS: drivers, memory management, networked applications, and tools that actually do something useful. I'm was also the third-largest contributor to [wplacer](https://github.com/wplacer/wplacer) and helped run the contributor side of its 2,500+ member community.
 
 ---
 
@@ -34,6 +34,7 @@ I'm a high school developer focused on systems programming in Rust and C++. I li
 - Writing reliable C++ and Rust
 - Building practical tools and experimental projects
 - Exploring AI/ML concepts on the side
+- Learning RE and AC development
 
 ---
 
